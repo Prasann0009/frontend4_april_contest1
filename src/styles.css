@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+ }
+#signUpForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    width: 20%;
+}
+button{
+    align-self: center;
+}
+
